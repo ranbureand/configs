@@ -1,2 +1,3 @@
-# configs
+# Configs
+
 Configurations, configurations, configurations….
